@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-21",
-    "generated_at_utc": "2026-10-21T08:30:02.475064+00:00",
+    "date": "2026-10-22",
+    "generated_at_utc": "2026-10-22T01:58:42.180651+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
-        "summary": "Steve Witkoff has landed in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine."
+        "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
       },
       {
-        "headline": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-        "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+        "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
       },
       {
-        "headline": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-        "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
+        "headline": "Macron accuses foreign leaders of exploiting French riots",
+        "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
       },
       {
-        "headline": "Australian MP loses both legs after alleged car attack, husband says",
-        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+        "headline": "Pope does not need further treatment after lung cancer surgery",
+        "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
       },
       {
-        "headline": "Elon Musk confirms talks to merge Tesla and SpaceX",
-        "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+        "headline": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 83134,
-        "24h_change": 2.035083376436233
+        "price": 83477,
+        "24h_change": 0.5936656305351297
       },
       "ETH_USD": {
-        "price": 2454.46,
-        "24h_change": 2.8712393255161213
+        "price": 2451.0,
+        "24h_change": -0.23284293324007233
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "The Future of CSS",
-        "url": "https://www.joshwcomeau.com/css/interop-2027/"
+        "title": "mitmproxy adds --emudhra option",
+        "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
       },
       {
-        "title": "Show HN: SimCity, but with Permits",
-        "url": "https://permit.petercai.com/"
+        "title": "Railway Security Disclosure",
+        "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
       },
       {
-        "title": "Muse exposes users' personal and business secrets when they share conversations",
-        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "url": "https://eliastaylor.com/noexploit/"
       },
       {
-        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-        "url": "https://news-web.php.net/php.announce/509"
+        "title": "Today's PHP security release, and how we're strengthening security",
+        "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
       },
       {
-        "title": "Voxtral 3",
-        "url": "https://mistral.ai/news/voxtral-3/"
+        "title": "GitLab Critical Patch Release",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
       }
     ]
   }
