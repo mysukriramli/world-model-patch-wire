@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-10-24",
+    "generated_at_utc": "2026-10-24T02:01:48.497214+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+        "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
+      },
+      {
+        "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+      },
+      {
+        "headline": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+        "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
+      },
+      {
+        "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+      },
+      {
+        "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 80858,
+        "24h_change": -0.47098037383107116
+      },
+      "ETH_USD": {
+        "price": 2379.76,
+        "24h_change": -0.3744411894362625
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+      },
+      {
+        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
+      },
+      {
+        "title": "Apple Music 404 Not Found",
+        "url": "https://music.apple.com/this-url-doesnt-exist"
+      },
+      {
+        "title": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/"
+      },
+      {
+        "title": "Dessa: the most authentic full-duplex speech model ever built",
+        "url": "https://block.xyz/dessa"
+      }
+    ]
+  }
+}
