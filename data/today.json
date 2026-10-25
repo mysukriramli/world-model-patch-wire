@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-24",
-    "generated_at_utc": "2026-10-24T02:01:48.497214+00:00",
+    "date": "2026-10-25",
+    "generated_at_utc": "2026-10-25T01:47:04.558379+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
+        "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
       },
       {
-        "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+        "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
       },
       {
-        "headline": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-        "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
+        "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+        "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
       },
       {
-        "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+        "headline": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
       },
       {
-        "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+        "headline": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+        "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 80858,
-        "24h_change": -0.47098037383107116
+        "price": 80782,
+        "24h_change": -0.014575288668048084
       },
       "ETH_USD": {
-        "price": 2379.76,
-        "24h_change": -0.3744411894362625
+        "price": 2358.62,
+        "24h_change": -0.7733827945529607
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+        "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
       },
       {
-        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
+        "title": "Roku developer repositories moved from GitHub to GitLab",
+        "url": "https://blog.roku.com/developer/gitlab-move"
       },
       {
-        "title": "Apple Music 404 Not Found",
-        "url": "https://music.apple.com/this-url-doesnt-exist"
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/"
       },
       {
-        "title": "CVE Tracker",
-        "url": "https://cve.0xosprey.com/"
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "url": "https://missileer.watch"
       },
       {
-        "title": "Dessa: the most authentic full-duplex speech model ever built",
-        "url": "https://block.xyz/dessa"
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://danluu.com/ambitious/"
       }
     ]
   }
