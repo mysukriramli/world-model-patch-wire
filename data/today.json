@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-26",
-    "generated_at_utc": "2026-10-26T01:49:35.079411+00:00",
+    "date": "2026-10-27",
+    "generated_at_utc": "2026-10-27T02:28:33.335361+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Elation across Serbia after veteran ruler Vu\u010di\u0107 concedes to student-led protest movement",
+        "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+      },
+      {
+        "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
+      },
+      {
+        "headline": "Opposition leader Mar\u00eda Machado returns from exile to a Venezuela reshaped by Trump",
+        "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being."
+      },
+      {
+        "headline": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
         "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
       },
       {
-        "headline": "Deeply divided Israel braces for pivotal election",
-        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
-      },
-      {
-        "headline": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro."
-      },
-      {
-        "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-      },
-      {
-        "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+        "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 79475,
-        "24h_change": -1.657127368019089
+        "price": 79953,
+        "24h_change": 0.5376234378179475
       },
       "ETH_USD": {
-        "price": 2304.21,
-        "24h_change": -2.412530401599651
+        "price": 2317.47,
+        "24h_change": 0.5802304829186471
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Dolly Parton's Imagination Library",
-        "url": "https://imaginationlibrary.com/"
+        "title": "Three new discoveries in mathematics, computer science, and physics",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
       },
       {
-        "title": "F-Zero X on Nintendo 3DS",
-        "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html"
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
       },
       {
-        "title": "Overgrown, when plants invade your abandoned tabs",
-        "url": "https://charliegerard.dev/blog/overgrown-extension/"
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
       },
       {
-        "title": "Why I Am a Programmer",
-        "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html"
+        "title": "Oldest GUI application that still runs on Windows 11",
+        "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
       },
       {
-        "title": "Attention Is Not What You Need",
-        "url": "https://arxiv.org/abs/2512.19428"
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
       }
     ]
   }
