@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-27",
-    "generated_at_utc": "2026-10-27T02:28:33.335361+00:00",
+    "date": "2026-10-28",
+    "generated_at_utc": "2026-10-28T02:37:05.006152+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Lula wins fourth term in dramatic Brazil election comeback",
-        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+        "headline": "Norway and Finland leaders hold rare call with Putin",
+        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
       },
       {
-        "headline": "Ex-FBI chief James Comey faces federal charges for third time",
-        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
+        "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
       },
       {
-        "headline": "Opposition leader Mar\u00eda Machado returns from exile to a Venezuela reshaped by Trump",
-        "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being."
+        "headline": "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
+        "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
       },
       {
-        "headline": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+        "headline": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
       },
       {
-        "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+        "headline": "Dutch zookeeper dies after being mauled by leopard",
+        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 79953,
-        "24h_change": 0.5376234378179475
+        "price": 80834,
+        "24h_change": 1.271209105641746
       },
       "ETH_USD": {
-        "price": 2317.47,
-        "24h_change": 0.5802304829186471
+        "price": 2354.05,
+        "24h_change": 1.7168342912326946
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Three new discoveries in mathematics, computer science, and physics",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        "title": "Genie 4",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
       },
       {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+        "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
       },
       {
-        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+        "title": "Ghostty 1.4",
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0"
       },
       {
-        "title": "Oldest GUI application that still runs on Windows 11",
-        "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/"
+        "title": "Early progress on accelerating drug development with Claude",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development"
       },
       {
-        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "url": "https://tailscale.com/ssh-investigation-update"
       }
     ]
   }
