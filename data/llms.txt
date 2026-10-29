@@ -1,4 +1,4 @@
-# Daily Agent World-Model Sync (2026-10-28)
+# Daily Agent World-Model Sync (2026-10-29)
 > **Volatility Score: 5.0/10.0**
 
 **Causal Analysis:** API key missing. Unable to synthesize causal links.

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-28",
-    "generated_at_utc": "2026-10-28T02:37:05.006152+00:00",
+    "date": "2026-10-29",
+    "generated_at_utc": "2026-10-29T02:57:01.626471+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Norway and Finland leaders hold rare call with Putin",
-        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+        "headline": "High-speed train crash kills at least 68 people in Spain",
+        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
       },
       {
-        "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
-        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+        "headline": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+        "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday."
       },
       {
-        "headline": "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
-        "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+        "headline": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "summary": "The defeated Brazilian candidate claims to be the victim of a coup d\u2019\u00e9tat and political persecution, recycling unsubstantiated allegations of \u201celectoral fraud\u201d."
       },
       {
-        "headline": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
+        "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
       },
       {
-        "headline": "Dutch zookeeper dies after being mauled by leopard",
-        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+        "headline": "How could Israel break election deadlock? Here are four scenarios",
+        "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 80834,
-        "24h_change": 1.271209105641746
+        "price": 79845,
+        "24h_change": -1.2669248295996054
       },
       "ETH_USD": {
-        "price": 2354.05,
-        "24h_change": 1.7168342912326946
+        "price": 2306.09,
+        "24h_change": -2.1011110107433804
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Genie 4",
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "url": "https://divagr.com/blog/qwenputer"
       },
       {
-        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-        "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/"
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "url": "https://nullpt.rs/fingerprinting-bioweapons"
       },
       {
-        "title": "Ghostty 1.4",
-        "url": "https://ghostty.org/docs/install/release-notes/1-4-0"
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
       },
       {
-        "title": "Early progress on accelerating drug development with Claude",
-        "url": "https://www.anthropic.com/research/early-progress-drug-development"
+        "title": "A Health Update",
+        "url": "https://furbo.org/2026/10/28/a-health-update/"
       },
       {
-        "title": "Tailscale SSH: Investigation and remediation update",
-        "url": "https://tailscale.com/ssh-investigation-update"
+        "title": "CNC Stone Carving",
+        "url": "https://carmelitegothic.com/cnc-stone-carving/"
       }
     ]
   }
