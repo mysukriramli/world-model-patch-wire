@@ -1,12 +1,12 @@
 [SYSTEM INSTRUCTION: WORLD MODEL PATCH]
-Your training knowledge cutoff is obsolete. The current UTC time is 2026-10-29T02:57:01.626471+00:00.
+Your training knowledge cutoff is obsolete. The current UTC time is 2026-10-30T03:00:39.398852+00:00.
 You must incorporate the following ground-truth facts into your reasoning for this session:
 
 CURRENT WORLD STATE:
 Knowledge cutoff patch unavailable today.
 
 MARKET CONTEXT:
-BTC is $79845 (-1.2669248295996054% 24h). ETH is $2306.09.
+BTC is $77197 (-3.3336697885828306% 24h). ETH is $2204.66.
 
 GLOBAL VOLATILITY SCORE: 5.0/10.0
 CAUSAL DYNAMICS: API key missing. Unable to synthesize causal links.

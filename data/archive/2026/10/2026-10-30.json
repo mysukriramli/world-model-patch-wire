@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-10-30",
+    "generated_at_utc": "2026-10-30T03:00:39.398852+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+      },
+      {
+        "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
+      },
+      {
+        "headline": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+        "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
+      },
+      {
+        "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+        "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
+      },
+      {
+        "headline": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "summary": "The defeated presidential candidate says he will lead the opposition from the US."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 77197,
+        "24h_change": -3.3336697885828306
+      },
+      "ETH_USD": {
+        "price": 2204.66,
+        "24h_change": -4.454645832717433
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+      },
+      {
+        "title": "We're releasing the weights of Mistral Large 4",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/"
+      },
+      {
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html"
+      },
+      {
+        "title": "Pico CSS is no longer maintained",
+        "url": "https://github.com/picocss/pico/discussions/754"
+      },
+      {
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "url": "https://github.com/SheepSeb/tinyworldformer"
+      }
+    ]
+  }
+}

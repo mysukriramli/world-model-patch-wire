@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-29",
-    "generated_at_utc": "2026-10-29T02:57:01.626471+00:00",
+    "date": "2026-10-30",
+    "generated_at_utc": "2026-10-30T03:00:39.398852+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "High-speed train crash kills at least 68 people in Spain",
-        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+        "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
       },
       {
-        "headline": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-        "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday."
+        "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
       },
       {
-        "headline": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "summary": "The defeated Brazilian candidate claims to be the victim of a coup d\u2019\u00e9tat and political persecution, recycling unsubstantiated allegations of \u201celectoral fraud\u201d."
+        "headline": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+        "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
       },
       {
-        "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+        "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+        "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
       },
       {
-        "headline": "How could Israel break election deadlock? Here are four scenarios",
-        "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+        "headline": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "summary": "The defeated presidential candidate says he will lead the opposition from the US."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 79845,
-        "24h_change": -1.2669248295996054
+        "price": 77197,
+        "24h_change": -3.3336697885828306
       },
       "ETH_USD": {
-        "price": 2306.09,
-        "24h_change": -2.1011110107433804
+        "price": 2204.66,
+        "24h_change": -4.454645832717433
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-        "url": "https://divagr.com/blog/qwenputer"
+        "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
       },
       {
-        "title": "Why is this fingerprinting script creating bioweapons?",
-        "url": "https://nullpt.rs/fingerprinting-bioweapons"
+        "title": "We're releasing the weights of Mistral Large 4",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/"
       },
       {
-        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html"
       },
       {
-        "title": "A Health Update",
-        "url": "https://furbo.org/2026/10/28/a-health-update/"
+        "title": "Pico CSS is no longer maintained",
+        "url": "https://github.com/picocss/pico/discussions/754"
       },
       {
-        "title": "CNC Stone Carving",
-        "url": "https://carmelitegothic.com/cnc-stone-carving/"
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "url": "https://github.com/SheepSeb/tinyworldformer"
       }
     ]
   }
