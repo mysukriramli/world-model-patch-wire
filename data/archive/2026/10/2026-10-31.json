@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-10-31",
+    "generated_at_utc": "2026-10-31T02:47:58.251839+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      },
+      {
+        "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+      },
+      {
+        "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+      },
+      {
+        "headline": "Police deployed during stand-off over control of top Poland court",
+        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+      },
+      {
+        "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 77376,
+        "24h_change": 0.08867049615086772
+      },
+      "ETH_USD": {
+        "price": 2245.06,
+        "24h_change": 1.6072593046354149
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/"
+      },
+      {
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "url": "https://github.com/chris124567/cfsolve"
+      },
+      {
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
+      },
+      {
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+      },
+      {
+        "title": "Northflank Breached",
+        "url": "https://status.northflank.com"
+      }
+    ]
+  }
+}

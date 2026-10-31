@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-30",
-    "generated_at_utc": "2026-10-30T03:00:39.398852+00:00",
+    "date": "2026-10-31",
+    "generated_at_utc": "2026-10-31T02:47:58.251839+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+        "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
       },
       {
-        "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
+        "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
       },
       {
-        "headline": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-        "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
+        "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
       },
       {
-        "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-        "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
+        "headline": "Police deployed during stand-off over control of top Poland court",
+        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
       },
       {
-        "headline": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
-        "summary": "The defeated presidential candidate says he will lead the opposition from the US."
+        "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 77197,
-        "24h_change": -3.3336697885828306
+        "price": 77376,
+        "24h_change": 0.08867049615086772
       },
       "ETH_USD": {
-        "price": 2204.66,
-        "24h_change": -4.454645832717433
+        "price": 2245.06,
+        "24h_change": 1.6072593046354149
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/"
       },
       {
-        "title": "We're releasing the weights of Mistral Large 4",
-        "url": "https://mistral.ai/news/mistral-large-4-oss/"
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "url": "https://github.com/chris124567/cfsolve"
       },
       {
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html"
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
       },
       {
-        "title": "Pico CSS is no longer maintained",
-        "url": "https://github.com/picocss/pico/discussions/754"
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
       },
       {
-        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-        "url": "https://github.com/SheepSeb/tinyworldformer"
+        "title": "Northflank Breached",
+        "url": "https://status.northflank.com"
       }
     ]
   }
