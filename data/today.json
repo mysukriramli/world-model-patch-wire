@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-10-31",
-    "generated_at_utc": "2026-10-31T02:47:58.251839+00:00",
+    "date": "2026-11-01",
+    "generated_at_utc": "2026-11-01T02:39:54.094890+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+        "headline": "Shops looted as German cost of living protests turn violent",
+        "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
       },
       {
-        "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+        "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food."
       },
       {
-        "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+        "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+        "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
       },
       {
-        "headline": "Police deployed during stand-off over control of top Poland court",
-        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+        "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
       },
       {
-        "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-        "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+        "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
+        "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 77376,
-        "24h_change": 0.08867049615086772
+        "price": 77623,
+        "24h_change": 0.4592563891381077
       },
       "ETH_USD": {
-        "price": 2245.06,
-        "24h_change": 1.6072593046354149
+        "price": 2263.64,
+        "24h_change": 0.8846578212117016
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-        "url": "https://tng.episodle.com/"
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/"
       },
       {
-        "title": "Cloudflare Turnstile solver library (no headless browser required)",
-        "url": "https://github.com/chris124567/cfsolve"
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
       },
       {
-        "title": "My favourite PowerMac is a Nintendo Wii",
-        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
       },
       {
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
       },
       {
-        "title": "Northflank Breached",
-        "url": "https://status.northflank.com"
+        "title": "Altoids Project",
+        "url": "https://uvdn7.github.io/altoids-project/"
       }
     ]
   }
