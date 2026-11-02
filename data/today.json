@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-01",
-    "generated_at_utc": "2026-11-01T02:39:54.094890+00:00",
+    "date": "2026-11-02",
+    "generated_at_utc": "2026-11-02T02:47:39.913502+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Shops looted as German cost of living protests turn violent",
-        "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+        "headline": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country."
       },
       {
-        "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food."
+        "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
       },
       {
-        "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+        "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
       },
       {
-        "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
+        "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
       },
       {
-        "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
-        "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
+        "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
+        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 77623,
-        "24h_change": 0.4592563891381077
+        "price": 78446,
+        "24h_change": 1.0543832771314408
       },
       "ETH_USD": {
-        "price": 2263.64,
-        "24h_change": 0.8846578212117016
+        "price": 2291.18,
+        "24h_change": 1.0882173006532543
       }
     },
     "tech_zeitgeist": [
+      {
+        "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org"
+      },
+      {
+        "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+        "url": "https://picon.dev/en/publications/ai-assisted-engineering/"
+      },
+      {
+        "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+        "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+      },
       {
         "title": "HackerTube: YouTube built from videos recommended by HN",
         "url": "https://karpathy.bearblog.dev/hacker-tube/"
       },
       {
-        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
-      },
-      {
-        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
-      },
-      {
-        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
-      },
-      {
-        "title": "Altoids Project",
-        "url": "https://uvdn7.github.io/altoids-project/"
+        "title": "Nibnib: Image compression with extreme decompression speed",
+        "url": "https://github.com/raphlinus/nibnib"
       }
     ]
   }
