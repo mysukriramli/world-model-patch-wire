@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-02",
-    "generated_at_utc": "2026-11-02T02:47:39.913502+00:00",
+    "date": "2026-11-03",
+    "generated_at_utc": "2026-11-03T04:05:29.275270+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-        "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country."
+        "headline": "US strikes Iran ahead of midterm elections",
+        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
       },
       {
-        "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-        "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+        "headline": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
       },
       {
-        "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
+        "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
       },
       {
-        "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+        "headline": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
       },
       {
-        "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
-        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
+        "headline": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+        "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 78446,
-        "24h_change": 1.0543832771314408
+        "price": 76720,
+        "24h_change": -2.297552015123265
       },
       "ETH_USD": {
-        "price": 2291.18,
-        "24h_change": 1.0882173006532543
+        "price": 2247.56,
+        "24h_change": -2.538526302035183
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-        "url": "https://hackerbooks.org"
+        "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+        "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33"
       },
       {
-        "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-        "url": "https://picon.dev/en/publications/ai-assisted-engineering/"
+        "title": "Astra can read and write weights to improve Qwen",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
       },
       {
-        "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
-        "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/"
       },
       {
-        "title": "HackerTube: YouTube built from videos recommended by HN",
-        "url": "https://karpathy.bearblog.dev/hacker-tube/"
+        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
       },
       {
-        "title": "Nibnib: Image compression with extreme decompression speed",
-        "url": "https://github.com/raphlinus/nibnib"
+        "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+        "url": "HN"
       }
     ]
   }

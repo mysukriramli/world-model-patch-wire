@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-03",
+    "generated_at_utc": "2026-11-03T04:05:29.275270+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "US strikes Iran ahead of midterm elections",
+        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+      },
+      {
+        "headline": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+      },
+      {
+        "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+      },
+      {
+        "headline": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+      },
+      {
+        "headline": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+        "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 76720,
+        "24h_change": -2.297552015123265
+      },
+      "ETH_USD": {
+        "price": 2247.56,
+        "24h_change": -2.538526302035183
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+        "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33"
+      },
+      {
+        "title": "Astra can read and write weights to improve Qwen",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+      },
+      {
+        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/"
+      },
+      {
+        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+      },
+      {
+        "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+        "url": "HN"
+      }
+    ]
+  }
+}
