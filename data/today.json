@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-03",
-    "generated_at_utc": "2026-11-03T04:05:29.275270+00:00",
+    "date": "2026-11-04",
+    "generated_at_utc": "2026-11-04T03:22:56.923424+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "US strikes Iran ahead of midterm elections",
-        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+        "headline": "Spanish transport minister resigns days after deadly train crash",
+        "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
       },
       {
-        "headline": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+        "headline": "Seven flights across Europe targeted by suspected bomb threats",
+        "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
       },
       {
-        "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+        "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
       },
       {
-        "headline": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+        "headline": "NTSB says crucial plane parts found three miles from Florida crash site",
+        "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash."
       },
       {
-        "headline": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-        "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
+        "headline": "Libya's top religious authority rules against wearing Nike clothes",
+        "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 76720,
-        "24h_change": -2.297552015123265
+        "price": 75938,
+        "24h_change": -1.163592642483449
       },
       "ETH_USD": {
-        "price": 2247.56,
-        "24h_change": -2.538526302035183
+        "price": 2235.72,
+        "24h_change": -0.6954936653425171
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
-        "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33"
+        "title": "The Internals of PostgreSQL",
+        "url": "https://www.interdb.jp/pg/index.html"
       },
       {
-        "title": "Astra can read and write weights to improve Qwen",
-        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+        "title": "Jailbreaking my car's navigation system just so I can change the time",
+        "url": "https://blog.nns.ee/2026/11/02/renault-hack/"
       },
       {
-        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-        "url": "https://hackertimes.ca/"
+        "title": "Stringman, an $800 open-source room scale gripper robot",
+        "url": "https://neufangled.com/"
       },
       {
-        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+        "title": "Giant canyon on Mars is still tectonically active",
+        "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today"
       },
       {
-        "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
-        "url": "HN"
+        "title": "C++26 Disapproved",
+        "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
       }
     ]
   }
