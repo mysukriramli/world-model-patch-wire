@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-04",
-    "generated_at_utc": "2026-11-04T03:22:56.923424+00:00",
+    "date": "2026-11-05",
+    "generated_at_utc": "2026-11-05T03:46:37.962690+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Spanish transport minister resigns days after deadly train crash",
-        "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+        "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+        "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
       },
       {
-        "headline": "Seven flights across Europe targeted by suspected bomb threats",
-        "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+        "headline": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+        "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal."
       },
       {
-        "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-        "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+        "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
       },
       {
-        "headline": "NTSB says crucial plane parts found three miles from Florida crash site",
-        "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash."
+        "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
       },
       {
-        "headline": "Libya's top religious authority rules against wearing Nike clothes",
-        "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
+        "headline": "'Most difficult days of my life' for keeper Owono",
+        "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 75938,
-        "24h_change": -1.163592642483449
+        "price": 80688,
+        "24h_change": 5.881034113068299
       },
       "ETH_USD": {
-        "price": 2235.72,
-        "24h_change": -0.6954936653425171
+        "price": 2430.01,
+        "24h_change": 8.406929887525799
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "The Internals of PostgreSQL",
-        "url": "https://www.interdb.jp/pg/index.html"
+        "title": "Residential proxies detected on White House network",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
       },
       {
-        "title": "Jailbreaking my car's navigation system just so I can change the time",
-        "url": "https://blog.nns.ee/2026/11/02/renault-hack/"
+        "title": "Starfall \u2013 Affordable, routine access to microgravity",
+        "url": "https://www.spacex.com/starfall"
       },
       {
-        "title": "Stringman, an $800 open-source room scale gripper robot",
-        "url": "https://neufangled.com/"
+        "title": "Images 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6/"
       },
       {
-        "title": "Giant canyon on Mars is still tectonically active",
-        "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today"
+        "title": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
       },
       {
-        "title": "C++26 Disapproved",
-        "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
+        "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+        "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/"
       }
     ]
   }

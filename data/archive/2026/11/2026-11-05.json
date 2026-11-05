@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-05",
+    "generated_at_utc": "2026-11-05T03:46:37.962690+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+        "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
+      },
+      {
+        "headline": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+        "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal."
+      },
+      {
+        "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
+      },
+      {
+        "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+      },
+      {
+        "headline": "'Most difficult days of my life' for keeper Owono",
+        "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 80688,
+        "24h_change": 5.881034113068299
+      },
+      "ETH_USD": {
+        "price": 2430.01,
+        "24h_change": 8.406929887525799
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Residential proxies detected on White House network",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+      },
+      {
+        "title": "Starfall \u2013 Affordable, routine access to microgravity",
+        "url": "https://www.spacex.com/starfall"
+      },
+      {
+        "title": "Images 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6/"
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+      },
+      {
+        "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+        "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/"
+      }
+    ]
+  }
+}
