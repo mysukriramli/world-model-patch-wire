@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-05",
-    "generated_at_utc": "2026-11-05T03:46:37.962690+00:00",
+    "date": "2026-11-06",
+    "generated_at_utc": "2026-11-06T03:43:40.804832+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-        "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
+        "headline": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
       },
       {
-        "headline": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-        "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal."
+        "headline": "Trump signs order preventing future presidents from changing Oval Office",
+        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
       },
       {
-        "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
+        "headline": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run."
       },
       {
-        "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-        "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+        "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
       },
       {
-        "headline": "'Most difficult days of my life' for keeper Owono",
-        "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
+        "headline": "Hoax bomb threats target European airlines and airports for second time in a week",
+        "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 80688,
-        "24h_change": 5.881034113068299
+        "price": 75815,
+        "24h_change": -6.061337855854275
       },
       "ETH_USD": {
-        "price": 2430.01,
-        "24h_change": 8.406929887525799
+        "price": 2231.04,
+        "24h_change": -8.207578048568493
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Residential proxies detected on White House network",
-        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757"
       },
       {
-        "title": "Starfall \u2013 Affordable, routine access to microgravity",
-        "url": "https://www.spacex.com/starfall"
+        "title": "sshole",
+        "url": "https://sshhole.com"
       },
       {
-        "title": "Images 2.6",
-        "url": "https://openai.com/index/introducing-images-2-6/"
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
       },
       {
-        "title": "A thousand fewer paths to root",
-        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+        "title": "Inkling 2 Small",
+        "url": "https://thinkingmachines.ai/news/inkling-2-small/"
       },
       {
-        "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
-        "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/"
+        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
       }
     ]
   }

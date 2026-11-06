@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-06",
+    "generated_at_utc": "2026-11-06T03:43:40.804832+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+      },
+      {
+        "headline": "Trump signs order preventing future presidents from changing Oval Office",
+        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+      },
+      {
+        "headline": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run."
+      },
+      {
+        "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
+      },
+      {
+        "headline": "Hoax bomb threats target European airlines and airports for second time in a week",
+        "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 75815,
+        "24h_change": -6.061337855854275
+      },
+      "ETH_USD": {
+        "price": 2231.04,
+        "24h_change": -8.207578048568493
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757"
+      },
+      {
+        "title": "sshole",
+        "url": "https://sshhole.com"
+      },
+      {
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+      },
+      {
+        "title": "Inkling 2 Small",
+        "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+      },
+      {
+        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+      }
+    ]
+  }
+}
