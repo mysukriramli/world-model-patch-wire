@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-06",
-    "generated_at_utc": "2026-11-06T03:43:40.804832+00:00",
+    "date": "2026-11-07",
+    "generated_at_utc": "2026-11-07T03:17:10.230049+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+        "headline": "AI stocks climb after trillions wiped from market values",
+        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
       },
       {
-        "headline": "Trump signs order preventing future presidents from changing Oval Office",
-        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+        "headline": "Four midterms takeaways for 2028 White House race",
+        "summary": "The buzz about the presidential election is already under way - here's what we learned this week."
       },
       {
-        "headline": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run."
+        "headline": "Two dead after bus crashes in France, officials say",
+        "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
       },
       {
-        "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-        "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
+        "headline": "New wave of bomb threats hit European airlines",
+        "summary": "No link has been established between the threats against the airlines and those against the media outlets."
       },
       {
-        "headline": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+        "headline": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 75815,
-        "24h_change": -6.061337855854275
+        "price": 76009,
+        "24h_change": 0.0031533525634724995
       },
       "ETH_USD": {
-        "price": 2231.04,
-        "24h_change": -8.207578048568493
+        "price": 2246.67,
+        "24h_change": 0.43329095317878347
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Claude Code sends your email address to websites",
-        "url": "https://github.com/anthropics/claude-code/issues/107757"
+        "title": "Libghostty 1.0",
+        "url": "https://mitchellh.com/writing/libghostty-1-0"
       },
       {
-        "title": "sshole",
-        "url": "https://sshhole.com"
+        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+        "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
       },
       {
-        "title": "MS Paint Remote Code Execution Vulnerability",
-        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+        "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+        "url": "https://josef.cn/blog/unitree"
       },
       {
-        "title": "Inkling 2 Small",
-        "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+        "title": "Tesla to wind down Cybertruck production",
+        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
       },
       {
-        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+        "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+        "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/"
       }
     ]
   }

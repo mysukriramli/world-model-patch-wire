@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-07",
+    "generated_at_utc": "2026-11-07T03:17:10.230049+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "AI stocks climb after trillions wiped from market values",
+        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+      },
+      {
+        "headline": "Four midterms takeaways for 2028 White House race",
+        "summary": "The buzz about the presidential election is already under way - here's what we learned this week."
+      },
+      {
+        "headline": "Two dead after bus crashes in France, officials say",
+        "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+      },
+      {
+        "headline": "New wave of bomb threats hit European airlines",
+        "summary": "No link has been established between the threats against the airlines and those against the media outlets."
+      },
+      {
+        "headline": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 76009,
+        "24h_change": 0.0031533525634724995
+      },
+      "ETH_USD": {
+        "price": 2246.67,
+        "24h_change": 0.43329095317878347
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Libghostty 1.0",
+        "url": "https://mitchellh.com/writing/libghostty-1-0"
+      },
+      {
+        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+        "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+      },
+      {
+        "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+        "url": "https://josef.cn/blog/unitree"
+      },
+      {
+        "title": "Tesla to wind down Cybertruck production",
+        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+      },
+      {
+        "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+        "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/"
+      }
+    ]
+  }
+}
