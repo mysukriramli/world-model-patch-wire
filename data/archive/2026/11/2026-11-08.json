@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-08",
+    "generated_at_utc": "2026-11-08T02:45:56.549327+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "What we know so far after Krakow gun attack",
+        "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker."
+      },
+      {
+        "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      },
+      {
+        "headline": "No clear winner after tight New Zealand general election",
+        "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+      },
+      {
+        "headline": "US offers $20m reward for information about Iran's nuclear programme",
+        "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+      },
+      {
+        "headline": "Houthis say at least 25 killed in Saudi air strike",
+        "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 75617,
+        "24h_change": -0.47258190327965166
+      },
+      "ETH_USD": {
+        "price": 2227.83,
+        "24h_change": -0.7604761184141964
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "url": "https://hunch.net/?p=13764006"
+      },
+      {
+        "title": "What I run on my $10 USD OpenStick homelab",
+        "url": "https://blog.bosscher.ch/posts/openstick/"
+      },
+      {
+        "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+      },
+      {
+        "title": "Making any integer with four 2s (2025)",
+        "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+      }
+    ]
+  }
+}
