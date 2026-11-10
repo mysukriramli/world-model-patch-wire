@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-09",
-    "generated_at_utc": "2026-11-09T03:03:17.389265+00:00",
+    "date": "2026-11-10",
+    "generated_at_utc": "2026-11-10T04:48:54.060319+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+        "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
       },
       {
-        "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+        "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
       },
       {
-        "headline": "Homes and temples glow across India to mark Diwali",
-        "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
+        "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+        "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
       },
       {
-        "headline": "Iran executes three men for 'armed unrest' after January protests",
-        "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
+        "headline": "Trump says more US attacks on Iran 'highly unlikely'",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation in the Middle East change."
       },
       {
-        "headline": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-        "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
+        "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+        "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 75214,
-        "24h_change": -0.6874859028741774
+        "price": 74574,
+        "24h_change": -0.33451509589516726
       },
       "ETH_USD": {
-        "price": 2144.99,
-        "24h_change": -4.033623815107606
+        "price": 2116.55,
+        "24h_change": -0.9683562416745155
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-        "url": "https://ketchup3d.github.io/app/"
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
       },
       {
-        "title": "Unlocking any car from X brand in most of the world",
-        "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"
+        "title": "USPS now offers official ZIP Code boundary polygons",
+        "url": "https://postalpro.usps.com/zcb"
       },
       {
-        "title": "Chimera Vocal Synth",
-        "url": "https://chimera-vocal-synth.vercel.app/"
+        "title": "E-means: Outperforming k-means in one-tenth the epochs",
+        "url": "https://e-means.github.io/"
       },
       {
-        "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-        "url": "https://duxlabs.dev/"
+        "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+        "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
       },
       {
-        "title": "Declarative Dragging",
-        "url": "https://declarative-dragging.github.io/"
+        "title": "Horible public key tricks",
+        "url": "https://maurycyz.com/projects/badcert/"
       }
     ]
   }
