@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-11",
-    "generated_at_utc": "2026-11-11T03:10:13.383285+00:00",
+    "date": "2026-11-12",
+    "generated_at_utc": "2026-11-12T04:23:43.147369+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
+        "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+        "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
       },
       {
-        "headline": "US Army soldier suspected of spying for Russia arrested in UK",
-        "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+        "headline": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+        "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says."
       },
       {
-        "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+        "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+        "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
       },
       {
-        "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-        "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+        "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
       },
       {
-        "headline": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
-        "summary": "Forecasters warn that this year's El Ni\u00f1o could be one of the strongest on record, with heavy rain and flooding in Kenya."
+        "headline": "Survivor pulled from rubble of deadly building collapse in New York",
+        "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 73699,
-        "24h_change": -1.3965846419391963
+        "price": 73685,
+        "24h_change": 0.343974250873329
       },
       "ETH_USD": {
-        "price": 2061.77,
-        "24h_change": -2.7420702021718952
+        "price": 2051.65,
+        "24h_change": -0.23107943276530993
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "url": "https://www.mcmillen.dev/sigbovik/"
       },
       {
-        "title": "A great old-timey game-programming hack (2013)",
-        "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+        "title": "Tim Peters has died",
+        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
       },
       {
-        "title": ".name Grandfathered",
-        "url": "https://neil.fraser.name/news/2026/11/10/"
+        "title": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator"
       },
       {
-        "title": "Scion is back and is going to sell a kei truck in America",
-        "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+        "title": "Critical RCE Vulnerability in Apache HTTP Server",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
       },
       {
-        "title": "Smart home devices should work without the internet",
-        "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
       }
     ]
   }
