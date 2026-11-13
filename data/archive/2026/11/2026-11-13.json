@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-13",
+    "generated_at_utc": "2026-11-13T03:39:33.050194+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      },
+      {
+        "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+      },
+      {
+        "headline": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+        "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+      },
+      {
+        "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+      },
+      {
+        "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+        "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 69155,
+        "24h_change": -6.128575379149108
+      },
+      "ETH_USD": {
+        "price": 1956.26,
+        "24h_change": -4.616552117163641
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Africa's solar revolution is vast and speedy",
+        "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy"
+      },
+      {
+        "title": "Jensen Huang resigns",
+        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+      },
+      {
+        "title": "Rust 1.100",
+        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+      },
+      {
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+      },
+      {
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+      }
+    ]
+  }
+}
