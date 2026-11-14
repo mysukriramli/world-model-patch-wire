@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-13",
-    "generated_at_utc": "2026-11-13T03:39:33.050194+00:00",
+    "date": "2026-11-14",
+    "generated_at_utc": "2026-11-14T03:38:09.900017+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+        "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
       },
       {
-        "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-        "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+        "headline": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
       },
       {
-        "headline": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-        "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+        "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
       },
       {
-        "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-        "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+        "headline": "Watch: How a server outage took down Microsoft Teams and Outlook",
+        "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
       },
       {
-        "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-        "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+        "headline": "Setback for SpaceX Starship rocket's double-catch test",
+        "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 69155,
-        "24h_change": -6.128575379149108
+        "price": 66862,
+        "24h_change": -3.3683404964313386
       },
       "ETH_USD": {
-        "price": 1956.26,
-        "24h_change": -4.616552117163641
+        "price": 1894.93,
+        "24h_change": -3.13276828085229
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Africa's solar revolution is vast and speedy",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy"
+        "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+        "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
       },
       {
-        "title": "Jensen Huang resigns",
-        "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
       },
       {
-        "title": "Rust 1.100",
-        "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+        "title": "FAA lifted National Ground Stop at 0119Z",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
       },
       {
-        "title": "Gemini 4 Hydrogen and Orchestrator",
-        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+        "title": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/"
       },
       {
-        "title": "Nvidia employees petition to bring back Jensen Huang",
-        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+        "title": "FAA issues national ground stop",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
       }
     ]
   }

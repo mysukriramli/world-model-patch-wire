@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-14",
+    "generated_at_utc": "2026-11-14T03:38:09.900017+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+      },
+      {
+        "headline": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+      },
+      {
+        "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+      },
+      {
+        "headline": "Watch: How a server outage took down Microsoft Teams and Outlook",
+        "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
+      },
+      {
+        "headline": "Setback for SpaceX Starship rocket's double-catch test",
+        "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 66862,
+        "24h_change": -3.3683404964313386
+      },
+      "ETH_USD": {
+        "price": 1894.93,
+        "24h_change": -3.13276828085229
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+        "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+      },
+      {
+        "title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+      },
+      {
+        "title": "FAA lifted National Ground Stop at 0119Z",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+      },
+      {
+        "title": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/"
+      },
+      {
+        "title": "FAA issues national ground stop",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+      }
+    ]
+  }
+}
