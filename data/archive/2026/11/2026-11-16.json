@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-16",
+    "generated_at_utc": "2026-11-16T03:15:31.786678+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+      },
+      {
+        "headline": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+      },
+      {
+        "headline": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      },
+      {
+        "headline": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+        "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago."
+      },
+      {
+        "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+        "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 65081,
+        "24h_change": -0.22460174723615542
+      },
+      "ETH_USD": {
+        "price": 1822.42,
+        "24h_change": -0.07221383266406078
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max"
+      },
+      {
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "url": "https://iter.ca/post/ubo-uxss/"
+      },
+      {
+        "title": "Old Bitly links are being hijacked",
+        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
+      },
+      {
+        "title": "Coles hit by a cybersecurity incident",
+        "url": "https://www.colesgroup.com.au/updates/"
+      },
+      {
+        "title": "Preserving 30 years of Salon journalism",
+        "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/"
+      }
+    ]
+  }
+}
