@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-17",
+    "generated_at_utc": "2026-11-17T05:16:49.593535+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Five EU countries announce migrant deportation centre in Rwanda",
+        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+      },
+      {
+        "headline": "Houthi rebel advance in Yemen may further destabilise global economy",
+        "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+      },
+      {
+        "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+      },
+      {
+        "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+        "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+      },
+      {
+        "headline": "When will we see Robert Pattinson as Bond in cinemas?",
+        "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 64778,
+        "24h_change": 0.1954273660024778
+      },
+      "ETH_USD": {
+        "price": 1829.01,
+        "24h_change": 0.8557734084612592
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "url": "https://www.cs.cmu.edu/learn/"
+      },
+      {
+        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      },
+      {
+        "title": "BugMeNot has closed",
+        "url": "https://www.bugmenot.com/"
+      },
+      {
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+      },
+      {
+        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "url": "https://support.apple.com/en-us/149699"
+      }
+    ]
+  }
+}
