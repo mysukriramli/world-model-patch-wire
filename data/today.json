@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-17",
-    "generated_at_utc": "2026-11-17T05:16:49.593535+00:00",
+    "date": "2026-11-18",
+    "generated_at_utc": "2026-11-18T04:44:50.351368+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Five EU countries announce migrant deportation centre in Rwanda",
-        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+        "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
       },
       {
-        "headline": "Houthi rebel advance in Yemen may further destabilise global economy",
-        "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+        "headline": "How the attack on Crimean Bridge unfolded",
+        "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
       },
       {
-        "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+        "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
       },
       {
-        "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-        "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+        "headline": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+        "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
       },
       {
-        "headline": "When will we see Robert Pattinson as Bond in cinemas?",
-        "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007."
+        "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 64778,
-        "24h_change": 0.1954273660024778
+        "price": 64409,
+        "24h_change": -0.9391355977776467
       },
       "ETH_USD": {
-        "price": 1829.01,
-        "24h_change": 0.8557734084612592
+        "price": 1800.86,
+        "24h_change": -1.6814056929486316
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-        "url": "https://www.cs.cmu.edu/learn/"
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/"
       },
       {
-        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+        "title": "ID.me terms required for IRS sign-in",
+        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
       },
       {
-        "title": "BugMeNot has closed",
-        "url": "https://www.bugmenot.com/"
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/"
       },
       {
-        "title": "Optimizely compromised, served malware on Zoom, GitLab",
-        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+        "title": "GPT\u20116.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
       },
       {
-        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-        "url": "https://support.apple.com/en-us/149699"
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
       }
     ]
   }

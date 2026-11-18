@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-18",
+    "generated_at_utc": "2026-11-18T04:44:50.351368+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+      },
+      {
+        "headline": "How the attack on Crimean Bridge unfolded",
+        "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+      },
+      {
+        "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+      },
+      {
+        "headline": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+        "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
+      },
+      {
+        "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 64409,
+        "24h_change": -0.9391355977776467
+      },
+      "ETH_USD": {
+        "price": 1800.86,
+        "24h_change": -1.6814056929486316
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/"
+      },
+      {
+        "title": "ID.me terms required for IRS sign-in",
+        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+      },
+      {
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/"
+      },
+      {
+        "title": "GPT\u20116.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+      },
+      {
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+      }
+    ]
+  }
+}
