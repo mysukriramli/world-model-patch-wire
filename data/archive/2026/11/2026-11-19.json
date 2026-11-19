@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-19",
+    "generated_at_utc": "2026-11-19T04:35:14.515336+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+      },
+      {
+        "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+        "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
+      },
+      {
+        "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "summary": "No state has ever been found guilty by an international court of committing genocide."
+      },
+      {
+        "headline": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+        "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence."
+      },
+      {
+        "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+        "summary": "Ch\u00e2taigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 63357,
+        "24h_change": -1.7226431739048413
+      },
+      "ETH_USD": {
+        "price": 1796.46,
+        "24h_change": -0.4831220718276283
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      },
+      {
+        "title": "Unauthenticated remote code execution in Nginx",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+      },
+      {
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+      },
+      {
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+      },
+      {
+        "title": "Unreal Tournament 2004 in the Browser",
+        "url": "https://ut2004.dev/"
+      }
+    ]
+  }
+}

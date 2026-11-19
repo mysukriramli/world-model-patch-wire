@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-18",
-    "generated_at_utc": "2026-11-18T04:44:50.351368+00:00",
+    "date": "2026-11-19",
+    "generated_at_utc": "2026-11-19T04:35:14.515336+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-        "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+        "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
       },
       {
-        "headline": "How the attack on Crimean Bridge unfolded",
-        "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+        "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+        "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
       },
       {
-        "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+        "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "summary": "No state has ever been found guilty by an international court of committing genocide."
       },
       {
-        "headline": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-        "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
+        "headline": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+        "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence."
       },
       {
-        "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+        "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+        "summary": "Ch\u00e2taigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 64409,
-        "24h_change": -0.9391355977776467
+        "price": 63357,
+        "24h_change": -1.7226431739048413
       },
       "ETH_USD": {
-        "price": 1800.86,
-        "24h_change": -1.6814056929486316
+        "price": 1796.46,
+        "24h_change": -0.4831220718276283
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-        "url": "https://calif.io/java4shell/"
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
       },
       {
-        "title": "ID.me terms required for IRS sign-in",
-        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+        "title": "Unauthenticated remote code execution in Nginx",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
       },
       {
-        "title": "Google's AI answers reducing search traffic by 40%",
-        "url": "https://revscope.co/blog/search-seo-geo-2026/"
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
       },
       {
-        "title": "GPT\u20116.2 Astra and Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
       },
       {
-        "title": "Quad9's withdrawal from France: A canary in the coal mine",
-        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+        "title": "Unreal Tournament 2004 in the Browser",
+        "url": "https://ut2004.dev/"
       }
     ]
   }
