@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-19",
-    "generated_at_utc": "2026-11-19T04:35:14.515336+00:00",
+    "date": "2026-11-20",
+    "generated_at_utc": "2026-11-20T04:23:54.293864+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+        "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
       },
       {
-        "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-        "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
+        "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
       },
       {
-        "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-        "summary": "No state has ever been found guilty by an international court of committing genocide."
+        "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
       },
       {
-        "headline": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-        "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence."
+        "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
       },
       {
-        "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-        "summary": "Ch\u00e2taigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
+        "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 63357,
-        "24h_change": -1.7226431739048413
+        "price": 61689,
+        "24h_change": -2.6371208078406188
       },
       "ETH_USD": {
-        "price": 1796.46,
-        "24h_change": -0.4831220718276283
+        "price": 1732.43,
+        "24h_change": -3.624094514072184
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Gemini 4 Neon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "url": "https://git-aarvin.github.io/mei/"
       },
       {
-        "title": "Unauthenticated remote code execution in Nginx",
-        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+        "title": "Anthropic\u2019s Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
       },
       {
-        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
       },
       {
-        "title": "Multiple vulnerabilities in Regexp and String case conversion",
-        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652"
       },
       {
-        "title": "Unreal Tournament 2004 in the Browser",
-        "url": "https://ut2004.dev/"
+        "title": "What Comes After AGI?",
+        "url": "https://institute.deepmind.com/essays/what-comes-after-agi/"
       }
     ]
   }

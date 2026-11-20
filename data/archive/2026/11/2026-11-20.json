@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "date": "2026-11-20",
+    "generated_at_utc": "2026-11-20T04:23:54.293864+00:00",
+    "world_volatility_score": 5.0,
+    "schema_version": "1.0.0"
+  },
+  "synthesis": {
+    "causal_analysis": "API key missing. Unable to synthesize causal links.",
+    "compressed_system_prompt": "Knowledge cutoff patch unavailable today."
+  },
+  "raw_data": {
+    "geopolitics": [
+      {
+        "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
+      },
+      {
+        "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+      },
+      {
+        "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+      },
+      {
+        "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+      },
+      {
+        "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+      }
+    ],
+    "markets": {
+      "BTC_USD": {
+        "price": 61689,
+        "24h_change": -2.6371208078406188
+      },
+      "ETH_USD": {
+        "price": 1732.43,
+        "24h_change": -3.624094514072184
+      }
+    },
+    "tech_zeitgeist": [
+      {
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "url": "https://git-aarvin.github.io/mei/"
+      },
+      {
+        "title": "Anthropic\u2019s Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+      },
+      {
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+      },
+      {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652"
+      },
+      {
+        "title": "What Comes After AGI?",
+        "url": "https://institute.deepmind.com/essays/what-comes-after-agi/"
+      }
+    ]
+  }
+}
