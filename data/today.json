@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "date": "2026-11-20",
-    "generated_at_utc": "2026-11-20T04:23:54.293864+00:00",
+    "date": "2026-11-21",
+    "generated_at_utc": "2026-11-21T04:19:42.942802+00:00",
     "world_volatility_score": 5.0,
     "schema_version": "1.0.0"
   },
@@ -12,56 +12,56 @@
   "raw_data": {
     "geopolitics": [
       {
-        "headline": "UK and EU to agree youth mobility scheme, BBC understands",
-        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
+        "headline": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory."
       },
       {
-        "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+        "headline": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
       },
       {
-        "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-        "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+        "headline": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
       },
       {
-        "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-        "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+        "headline": "French police officers sentenced for beating of music producer Michel Zecler",
+        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
       },
       {
-        "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+        "headline": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
       }
     ],
     "markets": {
       "BTC_USD": {
-        "price": 61689,
-        "24h_change": -2.6371208078406188
+        "price": 55831,
+        "24h_change": -9.52925882256558
       },
       "ETH_USD": {
-        "price": 1732.43,
-        "24h_change": -3.624094514072184
+        "price": 1554.42,
+        "24h_change": -10.291700791723061
       }
     },
     "tech_zeitgeist": [
       {
-        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-        "url": "https://git-aarvin.github.io/mei/"
+        "title": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
       },
       {
-        "title": "Anthropic\u2019s Nasdaq debut",
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
       },
       {
-        "title": "Pancreatic cancer halted by virus injection in three patients",
-        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+        "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf"
       },
       {
-        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "url": "https://github.com/openssl/openssl/pull/33652"
+        "title": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/"
       },
       {
-        "title": "What Comes After AGI?",
-        "url": "https://institute.deepmind.com/essays/what-comes-after-agi/"
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html"
       }
     ]
   }
